@@ -10,8 +10,6 @@ CMakeFiles/
 
 # Libraries
 *.lib
-*.a
-*.so
 *.dylib
 *.dll
 
