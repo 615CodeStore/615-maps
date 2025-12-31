@@ -1,0 +1,69 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.bak
+
+# Backend build files
+back_end/build/
+back_end/CMakeFiles/
+back_end/*.o
+back_end/*.a
+back_end/*.so
+back_end/*.dll
+back_end/*.exe
+back_end/*.out
+back_end/cmake_install.cmake
+
+# Frontend Flutter files
+front_end/.dart_tool/
+front_end/.flutter-plugins
+front_end/.flutter-plugins-dependencies
+front_end/.packages
+front_end/build/
+front_end/ios/Pods/
+front_end/ios/.symlinks/
+front_end/ios/Flutter/Flutter.framework/
+front_end/ios/Flutter/Flutter.podspec
+front_end/android/.gradle/
+front_end/android/app/build/
+front_end/android/build/
+front_end/linux/build/
+front_end/macos/build/
+front_end/windows/build/
+front_end/web/build/
+front_end/test/*.g.dart
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Testing
+coverage/
+.coverage
+*.lcov
+
+# Misc
+*.pid
+*.seed
+*.pid.lock
+.cache/
